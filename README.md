@@ -7,8 +7,8 @@
 - Monster Camp Outfit Pack - Thirst and Sensibility
 - Mount & Blade II: Bannerlord - Digital Companion
 - GRIME - Colors of Rot
-- Warhammer 40,000: Gladius - Adepta Sororitas DLC
-- Warhammer 40,000: Battlesector - Sisters of Battle DLC
+- Warhammer 40,000: Gladius - Adepta Sororitas
+- Warhammer 40,000: Battlesector - Sisters of Battle
 - Asterix & Obelix XXL 3 - Viking Outfit 
 - Asterix & Obelix XXL 3 - Legionnaire Outfit
 - Alaloth: Champions of The Four Kingdoms - Supporter Pack

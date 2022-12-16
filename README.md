@@ -1,4 +1,4 @@
-## This repository is to make known the missing games, DLC and goodies from [GOG.com](https://www.gog.com/). 
+## This repository is to make known missing Games, DLC, Updates Extras from [GOG.com](https://www.gog.com/).
 
 ## If you own something on the list and would like to share it, please email: [admin@gog-games.com](mailto:admin@gog-games.com)
 

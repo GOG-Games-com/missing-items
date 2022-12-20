@@ -1,7 +1,12 @@
 ## This repository is to make known missing Games, DLC, Updates and Extras from [GOG.com](https://www.gog.com/). If you own something on the list and would like to share it, please email: [admin@gog-games.com](mailto:admin@gog-games.com)
 
 ### Games
-- None
+- Rance Quest Magnum
+- Rance VI - Collapse of Zeth
+- Rance 5D -The Lonely Girl-
+- Sengoku Rance
+- Rance 02 -The Rebellious Maidens-
+- Rance 01 -Quest for Hikari-
 
 ### DLC
 - Northgard - Cross of Vidar Expansion Pack

@@ -26,6 +26,7 @@
 - Justin Wack and the Big Time Hack - Official Soundtrack
 - Justin Wack and the Big Time Hack - Official Walkthrough - Chart
 - BLACKTAIL - Original Soundtrack
+- Tyrant's Blessing Soundtrack
 
 ### Updates
 - Link to GOG Scale?

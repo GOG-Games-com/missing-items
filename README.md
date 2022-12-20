@@ -4,6 +4,7 @@
 - None
 
 ### DLC
+- Northgard - Cross of Vidar Expansion Pack
 - Monster Camp Outfit Pack - Thirst and Sensibility
 - Mount & Blade II: Bannerlord - Digital Companion
 - GRIME - Colors of Rot

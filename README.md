@@ -35,4 +35,4 @@
 - Tyrant's Blessing Soundtrack
 
 ### Updates
-- Link to GOG Scale?
+- A compilation of missing updated games can be found here: https://gog-scale.codeberg.page/gg.html

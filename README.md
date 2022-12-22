@@ -21,6 +21,13 @@
 - Amid Evil: Warrior Upgrade
 
 ### Extras
+- Void Scrappers Soundtrack
+- Svoboda 1945: Liberation Soundtrack
+- Ringlorn Saga Soundtrack
+- Gunborg: Dark Matters Soundtrack
+- The Companion Soundtrack
+- Boxville Soundtrack
+- Boxville Artbook and Wallpapers
 - Riddle of the Sphinx™ Soundtrack (The Awakening Edition)
 - SAMUDRA - Soundtrack
 - Once Upon a Jester Soundtrack

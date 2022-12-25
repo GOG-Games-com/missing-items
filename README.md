@@ -29,7 +29,6 @@
 - Boxville Soundtrack
 - Boxville Artbook and Wallpapers
 - Riddle of the Sphinx™ Soundtrack (The Awakening Edition)
-- SAMUDRA - Soundtrack
 - Once Upon a Jester Soundtrack
 - Relayer Advanced Original Sound Track -Into The Lost Code-
 - Shotgun King: The Final Checkmate Soundtrack

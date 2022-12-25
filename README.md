@@ -21,13 +21,7 @@
 - Amid Evil: Warrior Upgrade
 
 ### Extras
-- Relayer Advanced Original Sound Track -Into The Lost Code-
-- Once Upon a Jester Soundtrack
-- Riddle of the Sphinx™ Soundtrack (The Awakening Edition)
-- Justin Wack and the Big Time Hack - Official Soundtrack
-- Justin Wack and the Big Time Hack - Official Walkthrough - Chart
-- Shotgun King: The Final Checkmate Soundtrack
-- In Space No One Will Hear You Bark (OST)
+- None
 
 ### Updates
 - A compilation of missing updated games can be found here: https://gog-scale.codeberg.page/gg.html

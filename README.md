@@ -21,24 +21,13 @@
 - Amid Evil: Warrior Upgrade
 
 ### Extras
-- Void Scrappers Soundtrack
-- Svoboda 1945: Liberation Soundtrack
-- Ringlorn Saga Soundtrack
-- Gunborg: Dark Matters Soundtrack
-- The Companion Soundtrack
-- Boxville Soundtrack
-- Boxville Artbook and Wallpapers
-- Riddle of the Sphinx™ Soundtrack (The Awakening Edition)
-- Once Upon a Jester Soundtrack
 - Relayer Advanced Original Sound Track -Into The Lost Code-
-- Shotgun King: The Final Checkmate Soundtrack
-- In Space No One Will Hear You Bark (OST)
-- Knights of Honor II: Sovereign - Soundtrack
-- Lost Eidolons - Original Soundtrack
+- Once Upon a Jester Soundtrack
+- Riddle of the Sphinx™ Soundtrack (The Awakening Edition)
 - Justin Wack and the Big Time Hack - Official Soundtrack
 - Justin Wack and the Big Time Hack - Official Walkthrough - Chart
-- BLACKTAIL - Original Soundtrack
-- Tyrant's Blessing Soundtrack
+- Shotgun King: The Final Checkmate Soundtrack
+- In Space No One Will Hear You Bark (OST)
 
 ### Updates
 - A compilation of missing updated games can be found here: https://gog-scale.codeberg.page/gg.html

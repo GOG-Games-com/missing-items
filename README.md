@@ -11,7 +11,6 @@
 - Asterix & Obelix XXL 3 - Viking Outfit
 - Concordia: Digital Edition - Fish Market
 - Concordia: Digital Edition - Venus
-- Dice Legacy: Corrupted Fates
 - Diluvion: Noble Folly
 - Diluvion: Redeye's Revenge
 - Diluvion: Clarity's Call

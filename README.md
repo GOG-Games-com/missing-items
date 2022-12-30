@@ -16,7 +16,6 @@
 - Diluvion: Clarity's Call
 - Door Kickers: Action Squad - Professionals Abroad DLC
 - GRIME - Colors of Rot
-- Monster Camp Outfit Pack - Thirst and Sensibility
 - Mount & Blade II: Bannerlord - Digital Companion
 - Northgard - Cross of Vidar Expansion Pack
 - R-Type Final 2: New Pilot Support Pack

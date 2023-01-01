@@ -21,7 +21,6 @@
 - R-Type Final 2: New Pilot Support Pack
 - Stronghold Crusader 2: Map Pack
 - Tyranny - Coat of Arms DLC
-- Warhammer 40,000: Gladius - Adepta Sororitas
 
 ### Extras
 - None

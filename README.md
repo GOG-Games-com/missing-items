@@ -14,7 +14,6 @@
 - Diluvion: Noble Folly
 - Diluvion: Redeye's Revenge
 - Diluvion: Clarity's Call
-- Door Kickers: Action Squad - Professionals Abroad
 - GRIME - Colors of Rot
 - Mount & Blade II: Bannerlord - Digital Companion
 - Northgard - Cross of Vidar Expansion Pack

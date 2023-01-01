@@ -14,13 +14,13 @@
 - Diluvion: Noble Folly
 - Diluvion: Redeye's Revenge
 - Diluvion: Clarity's Call
-- Door Kickers: Action Squad - Professionals Abroad DLC
+- Door Kickers: Action Squad - Professionals Abroad
 - GRIME - Colors of Rot
 - Mount & Blade II: Bannerlord - Digital Companion
 - Northgard - Cross of Vidar Expansion Pack
 - R-Type Final 2: New Pilot Support Pack
 - Stronghold Crusader 2: Map Pack
-- Tyranny - Coat of Arms DLC
+- Tyranny - Coat of Arms
 
 ### Extras
 - None

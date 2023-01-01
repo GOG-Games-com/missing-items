@@ -20,7 +20,6 @@
 - Northgard - Cross of Vidar Expansion Pack
 - R-Type Final 2: New Pilot Support Pack
 - Stronghold Crusader 2: Map Pack
-- Tyranny - Coat of Arms
 
 ### Extras
 - None

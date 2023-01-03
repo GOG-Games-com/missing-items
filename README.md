@@ -15,8 +15,6 @@
 - Diluvion: Redeye's Revenge
 - Diluvion: Clarity's Call
 - GRIME - Colors of Rot
-- Mount & Blade II: Bannerlord - Digital Companion
-- Northgard - Cross of Vidar Expansion Pack
 - R-Type Final 2: New Pilot Support Pack
 - Stronghold Crusader 2: Map Pack
 

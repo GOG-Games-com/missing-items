@@ -12,7 +12,6 @@
 - Diluvion: Noble Folly
 - Diluvion: Redeye's Revenge
 - Diluvion: Clarity's Call
-- GRIME - Colors of Rot
 - R-Type Final 2: New Pilot Support Pack
 - Stronghold Crusader 2: Map Pack
 

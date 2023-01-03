@@ -9,8 +9,6 @@
 - AMID EVIL: WARRIOR UPGRADE
 - Asterix & Obelix XXL 3 - Legionnaire Outfit
 - Asterix & Obelix XXL 3 - Viking Outfit
-- Concordia: Digital Edition - Fish Market
-- Concordia: Digital Edition - Venus
 - Diluvion: Noble Folly
 - Diluvion: Redeye's Revenge
 - Diluvion: Clarity's Call

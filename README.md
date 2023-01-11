@@ -16,7 +16,7 @@
 - Stronghold Crusader 2: Map Pack
 
 ### Extras
-- None
+- Children of Silentown Supporter Pack
 
 ### Updates
 - A compilation of missing updated games can be found here: https://gog-scale.codeberg.page/gg.html

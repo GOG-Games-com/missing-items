@@ -4,6 +4,7 @@
 - Super Game Jam - 5 Short Games
 
 ### DLC
+- ΔV: Rings of Saturn - Deep Weeb
 - Age of Wonders III: Elven Resurgence Scenario
 - Alaloth: Champions of The Four Kingdoms - Supporter Pack
 - AMID EVIL: WARRIOR UPGRADE

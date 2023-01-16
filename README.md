@@ -4,6 +4,9 @@
 - Super Game Jam - 5 Short Games
 
 ### DLC
+- Bright Memory: Infinite Cyber Rabbit DLC
+- Bright Memory: Infinite Rabbit School Uniform DLC
+- Old World - Sacred and The Profane
 - ΔV: Rings of Saturn - Deep Weeb
 - Age of Wonders III: Elven Resurgence Scenario
 - Alaloth: Champions of The Four Kingdoms - Supporter Pack

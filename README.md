@@ -4,6 +4,8 @@
 - Super Game Jam - 5 Short Games
 
 ### DLC
+- Concordia: Digital Edition - Fish Market
+- Concordia: Digital Edition - Britannia & Germania
 - Bright Memory: Infinite Cyber Rabbit DLC
 - Bright Memory: Infinite Rabbit School Uniform DLC
 - Old World - Sacred and The Profane

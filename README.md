@@ -4,6 +4,7 @@
 - Super Game Jam - 5 Short Games
 
 ### DLC
+- Steel Division 2 - Blood Feud in Transylvania
 - Concordia: Digital Edition - Fish Market
 - Concordia: Digital Edition - Britannia & Germania
 - Bright Memory: Infinite Cyber Rabbit DLC

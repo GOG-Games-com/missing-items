@@ -24,6 +24,7 @@
 - Stronghold Crusader 2: Map Pack
 
 ### Extras
+- Kingdom's Life Soundtrack
 - Children of Silentown Supporter Pack
 
 ### Updates

@@ -4,6 +4,7 @@
 - Super Game Jam - 5 Short Games
 
 ### DLC
+- Metro Exodus - SDK
 - Steel Division 2 - Blood Feud in Transylvania
 - Concordia: Digital Edition - Fish Market
 - Concordia: Digital Edition - Britannia & Germania
@@ -11,6 +12,7 @@
 - Bright Memory: Infinite Rabbit School Uniform DLC
 - Old World - Sacred and The Profane
 - ΔV: Rings of Saturn - Deep Weeb
+- R-Type Final 2: New Pilot Support Pack
 - Age of Wonders III: Elven Resurgence Scenario
 - Alaloth: Champions of The Four Kingdoms - Supporter Pack
 - AMID EVIL: WARRIOR UPGRADE
@@ -19,7 +21,6 @@
 - Diluvion: Noble Folly
 - Diluvion: Redeye's Revenge
 - Diluvion: Clarity's Call
-- R-Type Final 2: New Pilot Support Pack
 - Stronghold Crusader 2: Map Pack
 
 ### Extras

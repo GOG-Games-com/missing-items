@@ -4,7 +4,7 @@
 - Super Game Jam - 5 Short Games
 
 ### DLC
-- Metro Exodus - SDK
+- Clunky Hero (no updated offline installer)
 - Steel Division 2 - Blood Feud in Transylvania
 - Concordia: Digital Edition - Fish Market
 - Concordia: Digital Edition - Britannia & Germania

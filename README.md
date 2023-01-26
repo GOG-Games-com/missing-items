@@ -1,6 +1,7 @@
 ## This repository is to make known missing Games, DLC, Updates and Extras from [GOG.com](https://www.gog.com/). If you own something on the list and would like to share it, please email: [admin@gog-games.com](mailto:admin@gog-games.com)
 
 ### Games
+- Dread Templar
 - Super Game Jam - 5 Short Games
 
 ### DLC

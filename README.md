@@ -1,10 +1,12 @@
 ## This repository is to make known missing Games, DLC, Updates and Extras from [GOG.com](https://www.gog.com/). If you own something on the list and would like to share it, please email: [admin@gog-games.com](mailto:admin@gog-games.com)
 
 ### Games
+- Clunky Hero (no updated offline installer)
 - Super Game Jam - 5 Short Games
 
 ### DLC
-- Clunky Hero (no updated offline installer)
+- Strategic Command: American Civil War - Wars in the Americas
+- MechWarrior 5: Mercenaries - Rise of Rasalhague
 - Steel Division 2 - Blood Feud in Transylvania
 - Concordia: Digital Edition - Fish Market
 - Concordia: Digital Edition - Britannia & Germania
@@ -24,6 +26,7 @@
 - Stronghold Crusader 2: Map Pack
 
 ### Extras
+- Lila's Sky Ark Soundtrack
 - The House of Da Vinci: The Art Book
 - Children of Silentown Supporter Pack
 

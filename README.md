@@ -6,7 +6,6 @@
 
 ### DLC
 - Strategic Command: American Civil War - Wars in the Americas
-- MechWarrior 5: Mercenaries - Rise of Rasalhague
 - Steel Division 2 - Blood Feud in Transylvania
 - Concordia: Digital Edition - Fish Market
 - Concordia: Digital Edition - Britannia & Germania

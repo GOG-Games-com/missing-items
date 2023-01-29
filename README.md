@@ -5,13 +5,9 @@
 
 ### DLC
 - Strategic Command: American Civil War - Wars in the Americas
-- Steel Division 2 - Blood Feud in Transylvania
 - Concordia: Digital Edition - Fish Market
 - Concordia: Digital Edition - Britannia & Germania
-- Bright Memory: Infinite Cyber Rabbit DLC
-- Bright Memory: Infinite Rabbit School Uniform DLC
 - Old World - Sacred and The Profane
-- ΔV: Rings of Saturn - Deep Weeb
 - R-Type Final 2: New Pilot Support Pack
 - Age of Wonders III: Elven Resurgence Scenario
 - Alaloth: Champions of The Four Kingdoms - Supporter Pack

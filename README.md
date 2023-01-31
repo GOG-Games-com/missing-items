@@ -20,6 +20,8 @@
 - Stronghold Crusader 2: Map Pack
 
 ### Extras
+- Inkulinati Supporter Pack
+- 8-Bit Adventures 2: Soundtrack
 - Lila's Sky Ark Soundtrack
 - The House of Da Vinci: The Art Book
 - Children of Silentown Supporter Pack

@@ -20,6 +20,8 @@
 - Stronghold Crusader 2: Map Pack
 
 ### Extras
+- Please Be Happy - Official Artbook
+- Please Be Happy - Original Soundtrack
 - Inkulinati Supporter Pack
 - 8-Bit Adventures 2: Soundtrack
 - Lila's Sky Ark Soundtrack

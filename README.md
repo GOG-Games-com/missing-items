@@ -20,6 +20,12 @@
 - Stronghold Crusader 2: Map Pack
 
 ### Extras
+- The Symbiant - Game Choice & Achievement Guide
+- The Symbiant - OST
+- The Symbiant - Artbook & CG Pack
+- Synthetic Lover Soundtrack
+- Synthetic Lover - Official Choice Guide
+- Synthetic Lover - Artbook
 - Please Be Happy - Official Artbook
 - Please Be Happy - Original Soundtrack
 - Inkulinati Supporter Pack

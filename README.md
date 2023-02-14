@@ -21,6 +21,7 @@
 - Stronghold Crusader 2: Map Pack
 
 ### Extras
+- Chicken Assassin: Reloaded - Soundtrack
 - The Symbiant - Game Choice & Achievement Guide
 - The Symbiant - OST
 - The Symbiant - Artbook & CG Pack

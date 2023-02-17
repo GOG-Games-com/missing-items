@@ -4,7 +4,6 @@
 - Super Game Jam - 5 Short Games
 
 ### DLC
-- Shadow Warrior 3: Definitive Edition - Koromodako Kata (Pre-order)
 - Field of Glory II: Swifter than Eagles
 - Nebuchadnezzar: The Adventures of Sargon
 - Strategic Command: American Civil War - Wars in the Americas

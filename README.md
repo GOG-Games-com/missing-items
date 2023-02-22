@@ -22,6 +22,7 @@
 - Stronghold Crusader 2: Map Pack
 
 ### Extras
+- Dreams in the Witch House Soundtrack
 - Notch Original Soundtrack - Omega Episode
 - Notch Original Soundtrack - Alpha Episode
 - Chicken Assassin: Reloaded - Soundtrack

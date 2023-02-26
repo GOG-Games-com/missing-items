@@ -23,8 +23,6 @@
 
 ### Extras
 - Dreams in the Witch House Soundtrack
-- Notch Original Soundtrack - Omega Episode
-- Notch Original Soundtrack - Alpha Episode
 - Chicken Assassin: Reloaded - Soundtrack
 - The Symbiant - Game Choice & Achievement Guide
 - The Symbiant - OST

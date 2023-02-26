@@ -4,6 +4,7 @@
 - Super Game Jam - 5 Short Games
 
 ### DLC
+- Galactic Civilizations III - Registration
 - Field of Glory II: Swifter than Eagles
 - Strategic Command: American Civil War - Wars in the Americas
 - Concordia: Digital Edition - Fish Market

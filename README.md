@@ -1,6 +1,7 @@
 ## This repository is to make known missing Games, DLC, Updates and Extras from [GOG.com](https://www.gog.com/). If you own something on the list and would like to share it, please email: [admin@gog-games.com](mailto:admin@gog-games.com)
 
 ### Games
+- Doom 3 (no installer)
 - Super Game Jam - 5 Short Games
 
 ### DLC
@@ -22,6 +23,8 @@
 - Stronghold Crusader 2: Map Pack
 
 ### Extras
+- Nehrim: At Fate's Edge Soundtrack
+- Enderal: Forgotten Stories Soundtrack
 - Dreams in the Witch House Soundtrack
 - Chicken Assassin: Reloaded - Soundtrack
 - The Symbiant - Game Choice & Achievement Guide

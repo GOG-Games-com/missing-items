@@ -4,6 +4,7 @@
 - Super Game Jam - 5 Short Games
 
 ### DLC
+- Pathfinder: Wrath of the Righteous - The Last Sarkorians 
 - Galactic Civilizations III - Registration
 - Field of Glory II: Swifter than Eagles
 - Strategic Command: American Civil War - Wars in the Americas
@@ -22,6 +23,7 @@
 - Stronghold Crusader 2: Map Pack
 
 ### Extras
+- Akane: Soundtrack
 - Nehrim: At Fate's Edge Soundtrack
 - Enderal: Forgotten Stories Soundtrack
 - Dreams in the Witch House Soundtrack

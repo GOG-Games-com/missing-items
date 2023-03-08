@@ -4,7 +4,6 @@
 - Super Game Jam - 5 Short Games
 
 ### DLC
-- Pathfinder: Wrath of the Righteous - The Last Sarkorians 
 - Galactic Civilizations III - Registration
 - Field of Glory II: Swifter than Eagles
 - Strategic Command: American Civil War - Wars in the Americas

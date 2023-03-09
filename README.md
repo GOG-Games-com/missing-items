@@ -22,6 +22,7 @@
 - Stronghold Crusader 2: Map Pack
 
 ### Extras
+- Terraformers - Supporter Pack 
 - Akane: Soundtrack
 - Nehrim: At Fate's Edge Soundtrack
 - Enderal: Forgotten Stories Soundtrack

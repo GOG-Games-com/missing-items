@@ -6,7 +6,6 @@
 ### DLC
 - Galactic Civilizations III - Registration
 - Field of Glory II: Swifter than Eagles
-- Strategic Command: American Civil War - Wars in the Americas
 - Concordia: Digital Edition - Fish Market
 - Concordia: Digital Edition - Britannia & Germania
 - Old World - Sacred and The Profane

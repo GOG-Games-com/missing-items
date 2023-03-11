@@ -4,13 +4,12 @@
 - Super Game Jam - 5 Short Games
 
 ### DLC
-- Galactic Civilizations III - Registration
+-Panzer Knights - Churchill & Valentine 
 - Field of Glory II: Swifter than Eagles
 - Concordia: Digital Edition - Fish Market
 - Concordia: Digital Edition - Britannia & Germania
 - Old World - Sacred and The Profane
 - R-Type Final 2: New Pilot Support Pack
-- Age of Wonders III: Elven Resurgence Scenario
 - Alaloth: Champions of The Four Kingdoms - Supporter Pack
 - AMID EVIL: WARRIOR UPGRADE
 - Asterix & Obelix XXL 3 - Legionnaire Outfit
@@ -19,6 +18,8 @@
 - Diluvion: Redeye's Revenge
 - Diluvion: Clarity's Call
 - Stronghold Crusader 2: Map Pack
+- Age of Wonders III: Elven Resurgence Scenario
+- Galactic Civilizations III - Registration
 
 ### Extras
 - Terraformers - Supporter Pack 
